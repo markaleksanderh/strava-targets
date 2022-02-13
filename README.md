@@ -1,0 +1,1 @@
+Small Flask app to check progress of Strava targets
